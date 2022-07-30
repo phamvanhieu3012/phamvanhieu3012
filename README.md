@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on Rikkeisoft
 - 🌱 I’m currently learning ReactJS + NodeJS
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phamvanhieu3012&count_private=true&theme=tokyonight&showicons=true)]()
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&langs_count=5&theme=tokyonight)]()
 
 <!--
@@ -19,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phamvanhieu3012&count_private=true&theme=tokyonight&showicons=true)]()
 -->
