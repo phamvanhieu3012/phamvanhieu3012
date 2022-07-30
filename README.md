@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Rikkeisoft
 - 🌱 I’m currently learning ReactJS + NodeJS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phamvanhieu3012/phamvanhieu3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
