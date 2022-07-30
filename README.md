@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Rikkeisoft
 - 🌱 I’m currently learning ReactJS + NodeJS
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 <!--
 **phamvanhieu3012/phamvanhieu3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
