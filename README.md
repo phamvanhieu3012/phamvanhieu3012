@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Rikkeisoft
 - 🌱 I’m currently learning ReactJS + NodeJS
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phamvanhieu3012/phamvanhieu3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phamvanhieu3012&count_private=true&theme=tokyonight&showicons=true)]()
 -->
