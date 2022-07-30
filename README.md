@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Rikkeisoft
+- 🌱 I’m currently learning ReactJS + NodeJS
 
 <!--
 **phamvanhieu3012/phamvanhieu3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
