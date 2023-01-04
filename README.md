@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Rikkeisoft
-- 🌱 I’m currently learning ReactJS + NodeJS + React Native + AWS
+- 🔭 I’m currently working on VNPT Technology
+- 🌱 I’m currently learning ReactJS + NodeJS + VueJS + React Native + AWS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
