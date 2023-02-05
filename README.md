@@ -1,6 +1,7 @@
 ### Hi there 👋
 - ✔ I’m currently working on VNPT Technology
 - ✔ I’m currently learning ReactJS + NodeJS + VueJS + React Native + AWS
+- ✔ Linkedln: https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-559070190/
 - ✔ Leetcode: https://leetcode.com/phamvanhieu74123/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
