@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ✔ I’m currently working on VNPT Technology
-- ✔ I’m currently learning ReactJS + NextJS + NodeJS + VueJS + React Native + AWS
+- ✔ I’m currently working with ReactJS + NextJS + NodeJS + VueJS + React Native + Java + AWS
 - ✔ Linkedln: https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-559070190/
 - ✔ Leetcode: https://leetcode.com/phamvanhieu74123/
 
