@@ -4,7 +4,9 @@
 - ✔ Linkedln: https://www.linkedin.com/in/hi%E1%BA%BFu-ph%E1%BA%A1m-559070190/
 - ✔ Leetcode: https://leetcode.com/phamvanhieu74123/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanhieu3012&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamvanhieu3012&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **phamvanhieu3012/phamvanhieu3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
